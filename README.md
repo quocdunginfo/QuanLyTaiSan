@@ -5,7 +5,6 @@ tài sản cố định cho trường Đại học<br>
 -Thời gian kết thúc: Đang cập nhật...<br>
 -Developer: See Contributor<br>
 -Mô tả khác: Đồ án tốt nghiệp đại học CNTT khóa 10 (năm 2010) của nhóm ***<br>
-được hướng dẫn bởi thầy Cao Thái Phương Thanh (giảng viên khoa CNTT)<br>
 
 -Đặc tả kỹ thuật:<br>
 +Ngôn ngữ chính: C#<br>
