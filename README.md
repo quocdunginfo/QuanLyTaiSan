@@ -1,5 +1,5 @@
 -Dự án: Hệ phần mềm ứng dụng quản lý phòng thiết bị, <br>
-tài sản cố định cho trường Đại học Sài Gòn (Ban cơ sở hạ tầng) <br>
+tài sản cố định cho trường Đại học<br>
 -Năm: 2014<br>
 -Thời gian bắt đầu dự án: giữa tháng 5 năm 2014<br>
 -Thời gian kết thúc: Đang cập nhật...<br>
